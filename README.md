@@ -3,6 +3,9 @@
 A simple Twitch chat TUI that allows you to lurk in a channel's chat without
 logging in. You cannot send messages (yet?).
 
+<img width="787" height="388" alt="{4AB1B3F8-8BD5-408F-BF4D-58E02A9950D9}" src="https://github.com/user-attachments/assets/53d31244-ac16-410a-b7ef-e78fc8dffd10" />
+
+
 ## Features
 
 - Connect to any Twitch channel anonymously.
