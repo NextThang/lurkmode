@@ -13,12 +13,12 @@ Disclaimer: This just a fun project to try out bubbletea and lipgloss.
 - See the chat in your terminal.
 - No login required.
 
-## Building
+## Installation
 
-To build the application, you need to have Go installed.
+To build and install the application, you need to have Go installed.
 
 ```bash
-go build -o lurkmode cmd/lurkmode/lurkmode.go
+go install github.com/nextthang/lurkmode/cmd/lurkmode@latest
 ```
 
 ## Usage
@@ -26,13 +26,13 @@ go build -o lurkmode cmd/lurkmode/lurkmode.go
 To start the application, run the following command:
 
 ```bash
-./lurkmode <channel_name>
+lurkmode <channel_name>
 ```
 
 For example, to join the chat of the channel "xQc", you would run:
 
 ```bash
-./lurkmode xQc
+lurkmode xQc
 ```
 
 ## License
